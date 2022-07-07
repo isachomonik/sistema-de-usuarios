@@ -1,0 +1,22 @@
+{
+  "name": "sistema-de-usuarios",
+  "version": "1.0.0",
+  "description": "sistema que gerencia usuarios em um banco de dados (arquivo .JSON)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isachomonik/sistema-de-usuarios.git"
+  },
+  "keywords": [
+    "usuarios"
+  ],
+  "author": "Isac Homonik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isachomonik/sistema-de-usuarios/issues"
+  },
+  "homepage": "https://github.com/isachomonik/sistema-de-usuarios#readme"
+}
